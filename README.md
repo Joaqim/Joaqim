@@ -6,4 +6,6 @@
 ![](https://komarev.com/ghpvc/?username=joaqim)  -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=joaqim&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
+<!-- Disable due to skew toward Javascript
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaqim&theme=blueberry) 
+-->
